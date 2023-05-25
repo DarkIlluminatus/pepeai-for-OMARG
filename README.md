@@ -1,3 +1,6 @@
+#IMPORTANT MESSAGE : This repo will be moving into the -OMARG-AIR-AID repository to be adapted via the in repo OS.
+
+
 # pepeai-testnet
 - experimental testnet for decentralized p2p AI processing
 
